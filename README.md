@@ -1,22 +1,16 @@
 # 💫 About Me:
+<span style="color: red;">Hey there! I'm **Rohit Soni**, your friendly neighborhood Full-Stack Developer.</span>
+
 ### 🔭 Currently Working On
 Chikitsa: A Healthcare Management System.
-
-### ✨ About Me
-Hey there! I'm Rohit Soni, your friendly neighborhood Full-Stack Developer.
-
 ### 🥇 Passion
 Crafting captivating user interfaces and transforming web experiences into digital masterpieces.
-
 ### 🎡 Approach
 With a blend of design artistry and code precision, I bring ideas to life and make pixels dance.
-
 ### 🌱 Learning
 Mastering My Stack for a Brighter Future.
-
 ### ⚡ Fun Fact
 MERN Stack is Incomplete Without ME 🙂.
-
 ### 💻 Developer Life
 I code, I debug, I make things magically work.
 
