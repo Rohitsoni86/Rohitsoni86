@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chikitsa A HealthCare Management System<br>🌱 I’m currently learning My Stack<br>⚡ Fun fact : MERN stack is Incomplete without ME 🙂
+🔭 I’m currently working on Chikitsa A HealthCare Management System.<br>🌱Learning My Stack for companies better future.<br>⚡ Fun fact : MERN stack is Incomplete without ME 🙂.<br>✨Hey there! I'm Rohit Soni, your friendly neighborhood Full-Stack Developer.<br>🥇 My passion? Crafting captivating user interfaces and transforming web experiences into digital masterpieces.<br>🎡 With a blend of design artistry and code precision, I bring ideas to life and make pixels dance.<br>💻 Developer: I code, I debug, I make things magically work.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitsoni86&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohitsoni86&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
