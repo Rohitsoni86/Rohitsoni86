@@ -1,6 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on Chikitsa A HealthCare Management System.<br>🌱Learning My Stack for companies better future.<br>⚡ Fun fact : MERN stack is Incomplete without ME 🙂.<br>✨Hey there! I'm Rohit Soni, your friendly neighborhood Full-Stack Developer.<br>🥇 My passion? Crafting captivating user interfaces and transforming web experiences into digital masterpieces.<br>🎡 With a blend of design artistry and code precision, I bring ideas to life and make pixels dance.<br>💻 Developer: I code, I debug, I make things magically work.
+### 🔭 Currently Working On
+Chikitsa: A Healthcare Management System.
 
+### ✨ About Me
+Hey there! I'm Rohit Soni, your friendly neighborhood Full-Stack Developer.
+
+### 🥇 Passion
+Crafting captivating user interfaces and transforming web experiences into digital masterpieces.
+
+### 🎡 Approach
+With a blend of design artistry and code precision, I bring ideas to life and make pixels dance.
+
+### 🌱 Learning
+Mastering My Stack for a Brighter Future.
+
+### ⚡ Fun Fact
+MERN Stack is Incomplete Without ME 🙂.
+
+### 💻 Developer Life
+I code, I debug, I make things magically work.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr__rohitsoni__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engineer-rohit-soni-thetechyguy/) 
