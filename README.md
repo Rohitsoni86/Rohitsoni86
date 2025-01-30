@@ -16,7 +16,7 @@ I code, I debug, I make things magically work.
 
 ## 🌐 Socials:
 <a href="https://instagram.com/mr__rohitsoni__">
-  <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="60" height="60" />
 </a> <a href="https://linkedin.com/in/engineer-rohit-soni-thetechyguy/">
   <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="60" height="60" />
 </a>
