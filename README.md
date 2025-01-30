@@ -20,7 +20,7 @@ I code, I debug, I make things magically work.
 </a>
 
 <a href="https://linkedin.com/in/engineer-rohit-soni-thetechyguy/">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/910/715/large_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="60" height="60" />
+  <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="60" height="60" />
 </a>
 
 # 💻 Tech Stack:
