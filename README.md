@@ -15,13 +15,11 @@ MERN Stack is Incomplete Without ME 🙂.
 I code, I debug, I make things magically work.
 
 ## 🌐 Socials:
-[![Instagram](https://cdn-icons-png.flaticon.com/512/1409/1409946.png)](https://instagram.com/mr__rohitsoni__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engineer-rohit-soni-thetechyguy/) 
-
 <a href="https://instagram.com/mr__rohitsoni__">
   <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" />
 </a>
 
-<a href="https://instagram.com/mr__rohitsoni__">
+<a href="https://linkedin.com/in/engineer-rohit-soni-thetechyguy/">
   <img src="https://static.vecteezy.com/system/resources/previews/018/910/715/large_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="40" height="40" />
 </a>
 
