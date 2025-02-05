@@ -1,4 +1,4 @@
-<img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/HeroWelcomeBanner.png" alt="Rohit Soni GitHub header image">
+<img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/HeroWelcomeBanner2.png" alt="Rohit Soni GitHub header image">
 
 # 💫 About Me:
 
