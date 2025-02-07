@@ -44,10 +44,7 @@ I code, I debug, I make things magically work.
 
 # 💻 My Skills & Expertise :
 
-
 <p align="left"><img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/HTML-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/CSS.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Javascript3dLogo.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Reactjs-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/NextjsBest.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Nodejs-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/MONGODB-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/MySQL.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/JQ-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/MUI-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/redux.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/SocketIo.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Tailwindcss-small.png" height=74> &nbsp; <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/redux.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/VsCode-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Canva.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Cplusplus-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Git-small.png" height=74></p>
-
-
 
 # 📊 GitHub Stats:
 
@@ -58,13 +55,13 @@ I code, I debug, I make things magically work.
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/WWWW.png" height="500" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitsoni86&theme=dark&hide_border=false" alt="Rohit Soni GitHub image" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Rohit Soni GitHub ">
+  
 </div>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Rohit Soni GitHub ">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitsoni86&theme=dark&hide_border=false" alt="Rohit Soni GitHub image" />
 </div>
-
 
 ---
 
