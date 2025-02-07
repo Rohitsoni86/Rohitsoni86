@@ -53,9 +53,9 @@ I code, I debug, I make things magically work.
 </div>
 <br/>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content:center; align-items: center;">
   <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/WWWW.png" height=300 width=300 style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="display: inline-block;" alt="Rohit Soni GitHub ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="display: inline-block; marging-bottom:34px" alt="Rohit Soni GitHub ">
   
 </div>
 
