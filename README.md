@@ -55,7 +55,7 @@ I code, I debug, I make things magically work.
 <img src="https://github-readme-stats.vercel.app/api?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rohit Soni GitHub image">
 </div>
 <br/>
-<div><img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/WWWW.png" height=500> &nbsp;
+<div><img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/WWWW.png" height=500 width=300> &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitsoni86&theme=dark&hide_border=false" alt="Rohit Soni GitHub image">
 </div>
 <br/>
