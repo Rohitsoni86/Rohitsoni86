@@ -49,12 +49,11 @@ I code, I debug, I make things magically work.
 # 📊 GitHub Stats:
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rohit Soni GitHub image">&nbsp;<img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/WWWW2.png" height=400 width=300 style="display: inline-block;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rohit Soni GitHub image">
 </div>
 <br/>
 
 <div style="display: flex; justify-content:center; align-items: center;">
-  <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/WWWW.png" height=300 width=300 style="display: inline-block;"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsoni86&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="display: inline-block; marging-bottom:34px" alt="Rohit Soni GitHub ">
   
 </div>
