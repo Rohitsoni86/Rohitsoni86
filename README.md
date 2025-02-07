@@ -28,15 +28,21 @@ MERN Stack is Incomplete Without ME 🙂.
 
 I code, I debug, I make things magically work.
 
-## 🌐 Socials:
+## 🌐 Connect With Me :
 
 <a href="https://instagram.com/mr__rohitsoni__">
-  <img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="60" height="60" />
+  <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/Social/instagram.png" width="60" height="60" />
 </a> <a href="https://linkedin.com/in/engineer-rohit-soni-thetechyguy/">
-  <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="60" height="60" />
+  <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/Social/linkedin.png" width="60" height="60" />
+</a>
+<a href="mailto:dynamicsoni.rohit@gmail.com">
+  <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/Social/gmail.png" width="60" height="60" />
+</a>
+<a href="https://wa.me/917742736286">
+  <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/Social/whatsapp.png" width="60" height="60" />
 </a>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 
 
 <p align="left"><img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/HTML-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/CSS.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Javascript3dLogo.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Reactjs-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Nodejs-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/MONGODB-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/MySQL.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/JQ-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/MUI-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/redux.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/SocketIo.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Tailwindcss-small.png" height=74> &nbsp; <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/redux.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/VsCode-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Canva.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Cplusplus-small.png" height=74> &nbsp; <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/StackIcons/Git-small.png" height=74></p>
