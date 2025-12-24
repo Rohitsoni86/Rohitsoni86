@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/system-online.svg" width="720" />
+</p>
+
+
 <img src="https://github.com/Rohitsoni86/Rohitsoni86/blob/main/Images/HeroWelcomeBanner2.png" alt="Rohit Soni GitHub header image">
 
 # 💫 About Me:
