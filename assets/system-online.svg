@@ -1,0 +1,169 @@
+<svg width="720" height="300" viewBox="0 0 720 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style>
+      :root {
+        --bg: #020617;
+        --neon: #22d3ee;
+        --violet: #a78bfa;
+        --green: #34d399;
+        --muted: #64748b;
+      }
+
+      text {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 13.5px;
+        letter-spacing: 0.35px;
+      }
+
+      .frame {
+        fill: var(--bg);
+        stroke: var(--neon);
+        stroke-opacity: 0.35;
+      }
+
+      .neon { fill: var(--neon); }
+      .violet { fill: var(--violet); }
+      .green { fill: var(--green); }
+      .muted { fill: var(--muted); }
+
+      .glow {
+        filter: drop-shadow(0 0 8px var(--neon));
+      }
+
+      /* Loader */
+      .loader rect {
+        animation: load 1.2s ease-in-out infinite;
+      }
+      .loader rect:nth-child(2) { animation-delay: .15s; }
+      .loader rect:nth-child(3) { animation-delay: .3s; }
+      .loader rect:nth-child(4) { animation-delay: .45s; }
+
+      @keyframes load {
+        0% { opacity: .2; }
+        50% { opacity: 1; }
+        100% { opacity: .2; }
+      }
+
+      .loader {
+        animation: hide 0s forwards;
+        animation-delay: 2.1s;
+      }
+
+      @keyframes hide {
+        to { opacity: 0; visibility: hidden; }
+      }
+
+      /* Terminal reveal */
+      .terminal {
+        opacity: 0;
+        animation: show .4s ease forwards;
+        animation-delay: 2.3s;
+      }
+
+      @keyframes show {
+        to { opacity: 1; }
+      }
+
+      /* Line sequencing */
+      .line {
+        opacity: 0;
+        animation: fade .3s ease forwards;
+      }
+
+      .l1 { animation-delay: 2.5s; }
+      .l2 { animation-delay: 3.0s; }
+      .l3 { animation-delay: 3.4s; }
+      .l4 { animation-delay: 3.9s; }
+      .l5 { animation-delay: 4.4s; }
+      .l6 { animation-delay: 4.9s; }
+      .l7 { animation-delay: 5.4s; }
+      .l8 { animation-delay: 6.0s; }
+      .l9 { animation-delay: 6.6s; }
+
+      @keyframes fade {
+        to { opacity: 1; }
+      }
+
+      /* Cursor */
+      .cursor {
+        animation: blink 1s steps(1) infinite;
+      }
+
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="10" y="10" rx="16" ry="16"
+        width="700" height="280"
+        class="frame"/>
+
+  <!-- Loader -->
+  <g class="loader" transform="translate(330 135)">
+    <rect width="8" height="26" class="neon"/>
+    <rect x="16" width="8" height="26" class="neon"/>
+    <rect x="32" width="8" height="26" class="neon"/>
+    <rect x="48" width="8" height="26" class="neon"/>
+  </g>
+
+  <!-- Terminal -->
+  <g class="terminal glow" transform="translate(32 36)">
+
+    <!-- Welcome -->
+    <text class="neon line l1" y="0">
+      welcome, and thanks for stopping by 👋
+    </text>
+
+    <!-- Prompt -->
+    <text class="neon line l2" y="22">
+      rohit@system:~$
+    </text>
+
+    <!-- Divider -->
+    <text class="muted line l3" y="40">
+      ----------------------------------
+    </text>
+
+    <!-- Boot -->
+    <text class="muted line l4" y="62">
+      &gt; initializing developer profile...
+    </text>
+
+    <!-- Stats -->
+    <text class="green line l5" y="90">
+      ✔ 2+ years of experience
+    </text>
+
+    <text class="green line l6" y="110">
+      ✔ 8+ industrial / professional projects
+    </text>
+
+    <text class="green line l7" y="130">
+      ✔ 10+ personal projects
+    </text>
+
+    <text class="muted line l8" y="150">
+      ✔ continuously upgrading my skills
+    </text>
+
+    <!-- Thanks + Contact -->
+    <text class="neon line l9" y="178">
+      thanks for visiting my profile ✨
+    </text>
+
+    <text class="muted line l9" y="198">
+      feel free to connect or reach out anytime
+    </text>
+
+    <!-- Idle Prompt -->
+    <text class="neon line l9" y="222">
+      rohit@system:~$ <tspan class="cursor">█</tspan>
+    </text>
+
+  </g>
+
+</svg>
