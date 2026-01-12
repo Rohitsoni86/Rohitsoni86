@@ -9,9 +9,9 @@
 
 <span style="color: red;">Hey there! I'm **Rohit Soni**, your friendly neighborhood Full-Stack Developer.</span>
 
-### 🔭 Currently Working On
+### 🔭 Currently Working With
 
-Chikitsa: A Healthcare Management System.
+Vigorus AI-Chikitsa: A Healthcare AI Startup.
 
 ### 🥇 Passion
 
